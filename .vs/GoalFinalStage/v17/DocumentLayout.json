@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\dtos\\out\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\dtos\\out\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\dtos\\out\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\dtos\\out\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\dtos\\out\\insertresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\dtos\\out\\insertresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\data\\itemseeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\data\\itemseeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\helpers\\models\\jwttypemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\helpers\\models\\jwttypemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\interfaces\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\interfaces\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\interfaces\\repositories\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\interfaces\\repositories\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\interfaces\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\interfaces\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\interfaces\\services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\interfaces\\services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\interfaces\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\interfaces\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\dtos\\in\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\dtos\\in\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\dtos\\in\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\dtos\\in\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|c:\\users\\cile\\desktop\\projects\\goalfinalstage\\goalfinalstage\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E5DC-B632-477D-8088-5DFE9304DB8B}|GoalFinalStage\\GoalFinalStage.csproj|solutionrelative:goalfinalstage\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\DTOs\\Out\\TokenResponseDTO.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\DTOs\\Out\\TokenResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\DTOs\\Out\\TokenResponseDTO.cs",
+              "RelativeToolTip": "GoalFinalStage\\DTOs\\Out\\TokenResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:04:15.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\DTOs\\Out\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\DTOs\\Out\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\DTOs\\Out\\LoginResponseDTO.cs",
+              "RelativeToolTip": "GoalFinalStage\\DTOs\\Out\\LoginResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:04:12.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Data\\DataContext.cs",
+              "RelativeToolTip": "GoalFinalStage\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:01:18.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemSeedData.json",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Data\\ItemSeedData.json",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Data\\ItemSeedData.json",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Data\\ItemSeedData.json",
+              "RelativeToolTip": "GoalFinalStage\\Data\\ItemSeedData.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T14:01:14.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Data\\Seed.cs",
+              "RelativeToolTip": "GoalFinalStage\\Data\\Seed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:01:09.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JWTTypeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Helpers\\Models\\JWTTypeModel.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Helpers\\Models\\JWTTypeModel.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Helpers\\Models\\JWTTypeModel.cs",
+              "RelativeToolTip": "GoalFinalStage\\Helpers\\Models\\JWTTypeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:36:59.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsertResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\DTOs\\Out\\InsertResponseDTO.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\DTOs\\Out\\InsertResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\DTOs\\Out\\InsertResponseDTO.cs",
+              "RelativeToolTip": "GoalFinalStage\\DTOs\\Out\\InsertResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:47:51.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GoalFinalStage\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:38:24.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Interfaces\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeToolTip": "GoalFinalStage\\Interfaces\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:39:30.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Services\\AuthService.cs",
+              "RelativeToolTip": "GoalFinalStage\\Services\\AuthService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA6wDAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:38:57.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Services\\TokenService.cs",
+              "RelativeToolTip": "GoalFinalStage\\Services\\TokenService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:18:50.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Interfaces\\Repositories\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Interfaces\\Repositories\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Interfaces\\Repositories\\IAuthRepository.cs",
+              "RelativeToolTip": "GoalFinalStage\\Interfaces\\Repositories\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:41:09.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Interfaces\\Repositories\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Interfaces\\Repositories\\IItemRepository.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Interfaces\\Repositories\\IItemRepository.cs",
+              "RelativeToolTip": "GoalFinalStage\\Interfaces\\Repositories\\IItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:58:52.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "GoalFinalStage\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:38:19.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Program.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Program.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Program.cs",
+              "RelativeToolTip": "GoalFinalStage\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowFoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:37:07.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Repositories\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "GoalFinalStage\\Repositories\\TokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:58:57.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GoalFinalStage\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:14:00.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Interfaces\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Interfaces\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Interfaces\\Services\\ITokenService.cs",
+              "RelativeToolTip": "GoalFinalStage\\Interfaces\\Services\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:36:57.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Interfaces\\Services\\IItemService.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Interfaces\\Services\\IItemService.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Interfaces\\Services\\IItemService.cs",
+              "RelativeToolTip": "GoalFinalStage\\Interfaces\\Services\\IItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:58:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Interfaces\\Repositories\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Interfaces\\Repositories\\ITokenRepository.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Interfaces\\Repositories\\ITokenRepository.cs",
+              "RelativeToolTip": "GoalFinalStage\\Interfaces\\Repositories\\ITokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:58:51.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Repositories\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "GoalFinalStage\\Repositories\\ItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:58:54.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "GoalFinalStage\\Repositories\\AuthRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:14:16.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "GoalFinalStage\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:14:11.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Services\\ItemService.cs",
+              "RelativeToolTip": "GoalFinalStage\\Services\\ItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:54:22.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\DTOs\\In\\RegistrationDTO.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\DTOs\\In\\RegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\DTOs\\In\\RegistrationDTO.cs",
+              "RelativeToolTip": "GoalFinalStage\\DTOs\\In\\RegistrationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:52:42.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\DTOs\\In\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\DTOs\\In\\UpdateUserDTO.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\DTOs\\In\\UpdateUserDTO.cs",
+              "RelativeToolTip": "GoalFinalStage\\DTOs\\In\\UpdateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:52:44.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "GoalFinalStage\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "GoalFinalStage\\Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:14:05.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\appsettings.json",
+              "RelativeDocumentMoniker": "GoalFinalStage\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cile\\Desktop\\Projects\\GoalFinalStage\\GoalFinalStage\\appsettings.json",
+              "RelativeToolTip": "GoalFinalStage\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T07:28:36.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
